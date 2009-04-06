@@ -1,0 +1,1219 @@
+
+
+Processing ApplicationController#new (for 127.0.0.1 at 2009-04-06 09:09:57) [GET]
+
+SyntaxError (/Users/oliv/Workspace/simple-notebook/app/controllers/session_controller.rb:8: syntax error, unexpected tSYMBEG, expecting kDO or '{' or '('
+    next_url = http://localhost:3000/session/create
+                                ^):
+  
+
+Rendered rescues/_trace (37.9ms)
+Rendered rescues/_request_and_response (1.7ms)
+Rendering rescues/layout (internal_server_error)
+
+
+Processing SessionController#new (for 127.0.0.1 at 2009-04-06 09:10:12) [GET]
+
+Errno::ENOENT (No such file or directory - config/rsakey.pem):
+  oauth (0.3.2) lib/oauth/signature/rsa/sha1.rb:36:in `read'
+  oauth (0.3.2) lib/oauth/signature/rsa/sha1.rb:36:in `digest'
+  oauth (0.3.2) lib/oauth/signature/base.rb:54:in `signature'
+  oauth (0.3.2) lib/oauth/signature.rb:15:in `sign'
+  oauth (0.3.2) lib/oauth/client/helper.rb:41:in `signature'
+  oauth (0.3.2) lib/oauth/client/helper.rb:55:in `header'
+  oauth (0.3.2) lib/oauth/client/net_http.rb:52:in `set_oauth_header'
+  oauth (0.3.2) lib/oauth/client/net_http.rb:20:in `send'
+  oauth (0.3.2) lib/oauth/client/net_http.rb:20:in `oauth!'
+  oauth (0.3.2) lib/oauth/consumer.rb:174:in `sign!'
+  oauth (0.3.2) lib/oauth/consumer.rb:150:in `create_signed_request'
+  oauth (0.3.2) lib/oauth/consumer.rb:122:in `request'
+  oauth (0.3.2) lib/oauth/consumer.rb:156:in `token_request'
+  oauth (0.3.2) lib/oauth/consumer.rb:104:in `get_request_token'
+  app/controllers/session_controller.rb:6:in `new'
+
+Rendered rescues/_trace (47.3ms)
+Rendered rescues/_request_and_response (0.3ms)
+Rendering rescues/layout (internal_server_error)
+
+
+Processing SessionController#new (for 127.0.0.1 at 2009-04-06 09:10:57) [GET]
+
+Errno::ENOENT (No such file or directory - config/rsakey.pem):
+  oauth (0.3.2) lib/oauth/signature/rsa/sha1.rb:36:in `read'
+  oauth (0.3.2) lib/oauth/signature/rsa/sha1.rb:36:in `digest'
+  oauth (0.3.2) lib/oauth/signature/base.rb:54:in `signature'
+  oauth (0.3.2) lib/oauth/signature.rb:15:in `sign'
+  oauth (0.3.2) lib/oauth/client/helper.rb:41:in `signature'
+  oauth (0.3.2) lib/oauth/client/helper.rb:55:in `header'
+  oauth (0.3.2) lib/oauth/client/net_http.rb:52:in `set_oauth_header'
+  oauth (0.3.2) lib/oauth/client/net_http.rb:20:in `send'
+  oauth (0.3.2) lib/oauth/client/net_http.rb:20:in `oauth!'
+  oauth (0.3.2) lib/oauth/consumer.rb:174:in `sign!'
+  oauth (0.3.2) lib/oauth/consumer.rb:150:in `create_signed_request'
+  oauth (0.3.2) lib/oauth/consumer.rb:122:in `request'
+  oauth (0.3.2) lib/oauth/consumer.rb:156:in `token_request'
+  oauth (0.3.2) lib/oauth/consumer.rb:104:in `get_request_token'
+  app/controllers/session_controller.rb:6:in `new'
+
+Rendered rescues/_trace (47.1ms)
+Rendered rescues/_request_and_response (0.3ms)
+Rendering rescues/layout (internal_server_error)
+
+
+Processing SessionController#new (for 127.0.0.1 at 2009-04-06 09:10:58) [GET]
+
+Errno::ENOENT (No such file or directory - config/rsakey.pem):
+  oauth (0.3.2) lib/oauth/signature/rsa/sha1.rb:36:in `read'
+  oauth (0.3.2) lib/oauth/signature/rsa/sha1.rb:36:in `digest'
+  oauth (0.3.2) lib/oauth/signature/base.rb:54:in `signature'
+  oauth (0.3.2) lib/oauth/signature.rb:15:in `sign'
+  oauth (0.3.2) lib/oauth/client/helper.rb:41:in `signature'
+  oauth (0.3.2) lib/oauth/client/helper.rb:55:in `header'
+  oauth (0.3.2) lib/oauth/client/net_http.rb:52:in `set_oauth_header'
+  oauth (0.3.2) lib/oauth/client/net_http.rb:20:in `send'
+  oauth (0.3.2) lib/oauth/client/net_http.rb:20:in `oauth!'
+  oauth (0.3.2) lib/oauth/consumer.rb:174:in `sign!'
+  oauth (0.3.2) lib/oauth/consumer.rb:150:in `create_signed_request'
+  oauth (0.3.2) lib/oauth/consumer.rb:122:in `request'
+  oauth (0.3.2) lib/oauth/consumer.rb:156:in `token_request'
+  oauth (0.3.2) lib/oauth/consumer.rb:104:in `get_request_token'
+  app/controllers/session_controller.rb:6:in `new'
+
+Rendered rescues/_trace (45.7ms)
+Rendered rescues/_request_and_response (0.3ms)
+Rendering rescues/layout (internal_server_error)
+
+
+Processing SessionController#new (for 127.0.0.1 at 2009-04-06 09:11:01) [GET]
+
+Errno::ENOENT (No such file or directory - config/rsakey.pem):
+  oauth (0.3.2) lib/oauth/signature/rsa/sha1.rb:36:in `read'
+  oauth (0.3.2) lib/oauth/signature/rsa/sha1.rb:36:in `digest'
+  oauth (0.3.2) lib/oauth/signature/base.rb:54:in `signature'
+  oauth (0.3.2) lib/oauth/signature.rb:15:in `sign'
+  oauth (0.3.2) lib/oauth/client/helper.rb:41:in `signature'
+  oauth (0.3.2) lib/oauth/client/helper.rb:55:in `header'
+  oauth (0.3.2) lib/oauth/client/net_http.rb:52:in `set_oauth_header'
+  oauth (0.3.2) lib/oauth/client/net_http.rb:20:in `send'
+  oauth (0.3.2) lib/oauth/client/net_http.rb:20:in `oauth!'
+  oauth (0.3.2) lib/oauth/consumer.rb:174:in `sign!'
+  oauth (0.3.2) lib/oauth/consumer.rb:150:in `create_signed_request'
+  oauth (0.3.2) lib/oauth/consumer.rb:122:in `request'
+  oauth (0.3.2) lib/oauth/consumer.rb:156:in `token_request'
+  oauth (0.3.2) lib/oauth/consumer.rb:104:in `get_request_token'
+  app/controllers/session_controller.rb:6:in `new'
+
+Rendered rescues/_trace (43.1ms)
+Rendered rescues/_request_and_response (0.3ms)
+Rendering rescues/layout (internal_server_error)
+
+
+Processing SessionController#new (for 127.0.0.1 at 2009-04-06 09:11:14) [GET]
+
+Errno::ENOENT (No such file or directory - /Users/oliv/Workspace/simple-notebook/config/rsakey.pem):
+  oauth (0.3.2) lib/oauth/signature/rsa/sha1.rb:36:in `read'
+  oauth (0.3.2) lib/oauth/signature/rsa/sha1.rb:36:in `digest'
+  oauth (0.3.2) lib/oauth/signature/base.rb:54:in `signature'
+  oauth (0.3.2) lib/oauth/signature.rb:15:in `sign'
+  oauth (0.3.2) lib/oauth/client/helper.rb:41:in `signature'
+  oauth (0.3.2) lib/oauth/client/helper.rb:55:in `header'
+  oauth (0.3.2) lib/oauth/client/net_http.rb:52:in `set_oauth_header'
+  oauth (0.3.2) lib/oauth/client/net_http.rb:20:in `send'
+  oauth (0.3.2) lib/oauth/client/net_http.rb:20:in `oauth!'
+  oauth (0.3.2) lib/oauth/consumer.rb:174:in `sign!'
+  oauth (0.3.2) lib/oauth/consumer.rb:150:in `create_signed_request'
+  oauth (0.3.2) lib/oauth/consumer.rb:122:in `request'
+  oauth (0.3.2) lib/oauth/consumer.rb:156:in `token_request'
+  oauth (0.3.2) lib/oauth/consumer.rb:104:in `get_request_token'
+  app/controllers/session_controller.rb:6:in `new'
+
+Rendered rescues/_trace (54.3ms)
+Rendered rescues/_request_and_response (2.4ms)
+Rendering rescues/layout (internal_server_error)
+
+
+Processing SessionController#new (for 127.0.0.1 at 2009-04-06 09:11:35) [GET]
+
+NameError (uninitialized constant OAuth::RESERVED_CHARACTERS):
+  oauth (0.3.2) lib/oauth/helper.rb:9:in `escape'
+  oauth (0.3.2) lib/oauth/helper.rb:28:in `normalize'
+  oauth (0.3.2) lib/oauth/helper.rb:27:in `collect'
+  oauth (0.3.2) lib/oauth/helper.rb:27:in `normalize'
+  oauth (0.3.2) lib/oauth/helper.rb:23:in `map'
+  oauth (0.3.2) lib/oauth/helper.rb:23:in `normalize'
+  oauth (0.3.2) lib/oauth/request_proxy/base.rb:89:in `normalized_parameters'
+  oauth (0.3.2) lib/oauth/request_proxy/base.rb:104:in `signature_base_string'
+  oauth (0.3.2) lib/oauth/signature/base.rb:66:in `signature_base_string'
+  oauth (0.3.2) lib/oauth/signature/rsa/sha1.rb:42:in `digest'
+  oauth (0.3.2) lib/oauth/signature/base.rb:54:in `signature'
+  oauth (0.3.2) lib/oauth/signature.rb:15:in `sign'
+  oauth (0.3.2) lib/oauth/client/helper.rb:41:in `signature'
+  oauth (0.3.2) lib/oauth/client/helper.rb:55:in `header'
+  oauth (0.3.2) lib/oauth/client/net_http.rb:52:in `set_oauth_header'
+  oauth (0.3.2) lib/oauth/client/net_http.rb:20:in `send'
+  oauth (0.3.2) lib/oauth/client/net_http.rb:20:in `oauth!'
+  oauth (0.3.2) lib/oauth/consumer.rb:174:in `sign!'
+  oauth (0.3.2) lib/oauth/consumer.rb:150:in `create_signed_request'
+  oauth (0.3.2) lib/oauth/consumer.rb:122:in `request'
+  oauth (0.3.2) lib/oauth/consumer.rb:156:in `token_request'
+  oauth (0.3.2) lib/oauth/consumer.rb:104:in `get_request_token'
+  app/controllers/session_controller.rb:6:in `new'
+
+Rendered rescues/_trace (52.9ms)
+Rendered rescues/_request_and_response (0.3ms)
+Rendering rescues/layout (internal_server_error)
+
+
+Processing SessionController#new (for 127.0.0.1 at 2009-04-06 09:12:09) [GET]
+Redirected to https://www.google.com/accounts/OAuthAuthorizeToken?oauth_token=4%2Fjlfm7_kfGoWhw7Qp43i2K7l99IMB&oauth_callback=http://localhost:3000/session/create
+Completed in 836ms (DB: 0) | 302 Found [http://localhost/session/new]
+
+
+Processing SessionController#new (for 127.0.0.1 at 2009-04-06 09:13:50) [GET]
+
+OAuth::Unauthorized (400 Bad Request):
+  oauth (0.3.2) lib/oauth/consumer.rb:166:in `token_request'
+  oauth (0.3.2) lib/oauth/consumer.rb:104:in `get_request_token'
+  app/controllers/session_controller.rb:6:in `new'
+
+Rendered rescues/_trace (137.9ms)
+Rendered rescues/_request_and_response (1.7ms)
+Rendering rescues/layout (internal_server_error)
+
+
+Processing SessionController#new (for 127.0.0.1 at 2009-04-06 09:15:21) [GET]
+Redirected to https://www.google.com/accounts/OAuthAuthorizeToken?oauth_token=4%2FozjRI-fm3L78XQYmrj_0SCBNdCvk&oauth_callback=http://localhost:3000/session/create
+Completed in 484ms (DB: 0) | 302 Found [http://localhost/session/new]
+
+
+Processing SessionController#create (for 127.0.0.1 at 2009-04-06 09:15:26) [GET]
+  Parameters: {"oauth_token"=>"4/ozjRI-fm3L78XQYmrj_0SCBNdCvk"}
+
+NameError (uninitialized constant SessionController::XmlSimple):
+  app/controllers/session_controller.rb:15:in `create'
+
+Rendered rescues/_trace (40.8ms)
+Rendered rescues/_request_and_response (0.3ms)
+Rendering rescues/layout (internal_server_error)
+
+
+Processing SessionController#create (for 127.0.0.1 at 2009-04-06 09:18:51) [GET]
+  Parameters: {"oauth_token"=>"4/ozjRI-fm3L78XQYmrj_0SCBNdCvk"}
+
+OAuth::Unauthorized (400 Bad Request):
+  oauth (0.3.2) lib/oauth/consumer.rb:166:in `token_request'
+  oauth (0.3.2) lib/oauth/tokens/request_token.rb:14:in `get_access_token'
+  app/controllers/session_controller.rb:14:in `create'
+
+Rendered rescues/_trace (44.5ms)
+Rendered rescues/_request_and_response (1.8ms)
+Rendering rescues/layout (internal_server_error)
+
+
+Processing SessionController#new (for 127.0.0.1 at 2009-04-06 09:19:06) [GET]
+Redirected to https://www.google.com/accounts/OAuthAuthorizeToken?oauth_token=4%2F7G2jUVBfdbnb2dRt-vU8nbheI796&oauth_callback=http://localhost:3000/session/create
+Completed in 601ms (DB: 0) | 302 Found [http://localhost/session/new]
+
+
+Processing SessionController#create (for 127.0.0.1 at 2009-04-06 09:19:10) [GET]
+  Parameters: {"oauth_token"=>"4/7G2jUVBfdbnb2dRt-vU8nbheI796"}
+
+NameError (uninitialized constant SessionController::XmlSimple):
+  app/controllers/session_controller.rb:15:in `create'
+
+Rendered rescues/_trace (38.2ms)
+Rendered rescues/_request_and_response (0.3ms)
+Rendering rescues/layout (internal_server_error)
+
+
+Processing SessionController#create (for 127.0.0.1 at 2009-04-06 09:19:42) [GET]
+  Parameters: {"oauth_token"=>"4/7G2jUVBfdbnb2dRt-vU8nbheI796"}
+
+OAuth::Unauthorized (400 Bad Request):
+  oauth (0.3.2) lib/oauth/consumer.rb:166:in `token_request'
+  oauth (0.3.2) lib/oauth/tokens/request_token.rb:14:in `get_access_token'
+  app/controllers/session_controller.rb:15:in `create'
+
+Rendered rescues/_trace (44.6ms)
+Rendered rescues/_request_and_response (0.4ms)
+Rendering rescues/layout (internal_server_error)
+
+
+Processing SessionController#new (for 127.0.0.1 at 2009-04-06 09:19:48) [GET]
+Redirected to https://www.google.com/accounts/OAuthAuthorizeToken?oauth_token=4%2F61QoEnuDNnfq3SAt_e5zlz6jU629&oauth_callback=http://localhost:3000/session/create
+Completed in 488ms (DB: 0) | 302 Found [http://localhost/session/new]
+
+
+Processing SessionController#create (for 127.0.0.1 at 2009-04-06 09:19:51) [GET]
+  Parameters: {"oauth_token"=>"4/61QoEnuDNnfq3SAt_e5zlz6jU629"}
+
+NameError (uninitialized constant SessionController::XmlSimple):
+  app/controllers/session_controller.rb:16:in `create'
+
+Rendered rescues/_trace (40.8ms)
+Rendered rescues/_request_and_response (0.3ms)
+Rendering rescues/layout (internal_server_error)
+
+
+Processing SessionController#new (for 127.0.0.1 at 2009-04-06 09:20:08) [GET]
+Redirected to https://www.google.com/accounts/OAuthAuthorizeToken?oauth_token=4%2Fs0M7UaST9I9pGfmOemdW6NlixCga&oauth_callback=http://localhost:3000/session/create
+Completed in 467ms (DB: 0) | 302 Found [http://localhost/session/new]
+
+
+Processing SessionController#create (for 127.0.0.1 at 2009-04-06 09:20:11) [GET]
+  Parameters: {"oauth_token"=>"4/s0M7UaST9I9pGfmOemdW6NlixCga"}
+
+MissingSourceFile (no such file to load -- xml-simple):
+  app/controllers/session_controller.rb:13:in `create'
+
+Rendered rescues/_trace (38.5ms)
+Rendered rescues/_request_and_response (0.3ms)
+Rendering rescues/layout (internal_server_error)
+
+
+Processing SessionController#new (for 127.0.0.1 at 2009-04-06 09:24:22) [GET]
+Redirected to https://www.google.com/accounts/OAuthAuthorizeToken?oauth_token=4%2F6fgDkWCaYxJuhjUbUO_rj-bHZ7-V&oauth_callback=http://localhost:3000/session/create
+Completed in 541ms (DB: 0) | 302 Found [http://localhost/session/new]
+
+
+Processing SessionController#create (for 127.0.0.1 at 2009-04-06 09:24:25) [GET]
+  Parameters: {"oauth_token"=>"4/6fgDkWCaYxJuhjUbUO_rj-bHZ7-V"}
+
+NoMethodError (You have a nil object when you didn't expect it!
+You might have expected an instance of Array.
+The error occurred while evaluating nil.first):
+  app/controllers/session_controller.rb:16:in `create'
+
+Rendered rescues/_trace (143.4ms)
+Rendered rescues/_request_and_response (2.0ms)
+Rendering rescues/layout (internal_server_error)
+
+
+Processing SessionController#new (for 127.0.0.1 at 2009-04-06 09:26:09) [GET]
+Redirected to https://www.google.com/accounts/OAuthAuthorizeToken?oauth_token=4%2F_WlLU09ej5vIhmox9yBCrcN0DceT&oauth_callback=http://localhost:3000/session/create
+Completed in 489ms (DB: 0) | 302 Found [http://localhost/session/new]
+
+
+Processing SessionController#create (for 127.0.0.1 at 2009-04-06 09:26:12) [GET]
+  Parameters: {"oauth_token"=>"4/_WlLU09ej5vIhmox9yBCrcN0DceT"}
+HEADTITLEToken invalid - AuthSub token has wrong scopeBODYBGCOLOR#FFFFFFTEXT#000000H1Token invalid - AuthSub token has wrong scopeH2Error 401
+
+NoMethodError (You have a nil object when you didn't expect it!
+You might have expected an instance of Array.
+The error occurred while evaluating nil.first):
+  app/controllers/session_controller.rb:17:in `create'
+
+Rendered rescues/_trace (35.3ms)
+Rendered rescues/_request_and_response (0.4ms)
+Rendering rescues/layout (internal_server_error)
+
+
+Processing SessionController#new (for 127.0.0.1 at 2009-04-06 09:26:33) [GET]
+Redirected to https://www.google.com/accounts/OAuthAuthorizeToken?oauth_token=4%2FNo9Gr8nQxSwDMumAc41ZyTiAwfJN&oauth_callback=http://localhost:3000/session/create
+Completed in 538ms (DB: 0) | 302 Found [http://localhost/session/new]
+
+
+Processing SessionController#create (for 127.0.0.1 at 2009-04-06 09:26:36) [GET]
+  Parameters: {"oauth_token"=>"4/No9Gr8nQxSwDMumAc41ZyTiAwfJN"}
+HEADTITLEToken invalid - AuthSub token has wrong scopeBODYBGCOLOR#FFFFFFTEXT#000000H1Token invalid - AuthSub token has wrong scopeH2Error 401
+
+NoMethodError (You have a nil object when you didn't expect it!
+You might have expected an instance of Array.
+The error occurred while evaluating nil.first):
+  app/controllers/session_controller.rb:17:in `create'
+
+Rendered rescues/_trace (146.1ms)
+Rendered rescues/_request_and_response (0.3ms)
+Rendering rescues/layout (internal_server_error)
+
+
+Processing SessionController#new (for 127.0.0.1 at 2009-04-06 09:27:08) [GET]
+Redirected to https://www.google.com/accounts/OAuthAuthorizeToken?oauth_token=4%2FSfFkmCnO5YaCoewErr6f4Er59IeN&oauth_callback=http://localhost:3000/session/create
+Completed in 540ms (DB: 0) | 302 Found [http://localhost/session/new]
+
+
+Processing SessionController#create (for 127.0.0.1 at 2009-04-06 09:27:11) [GET]
+  Parameters: {"oauth_token"=>"4/SfFkmCnO5YaCoewErr6f4Er59IeN"}
+HEADTITLEToken invalid - AuthSub token has wrong scopeBODYBGCOLOR#FFFFFFTEXT#000000H1Token invalid - AuthSub token has wrong scopeH2Error 401
+
+NoMethodError (You have a nil object when you didn't expect it!
+You might have expected an instance of Array.
+The error occurred while evaluating nil.first):
+  app/controllers/session_controller.rb:17:in `create'
+
+Rendered rescues/_trace (39.7ms)
+Rendered rescues/_request_and_response (0.3ms)
+Rendering rescues/layout (internal_server_error)
+
+
+Processing SessionController#new (for 127.0.0.1 at 2009-04-06 09:28:27) [GET]
+Redirected to https://www.google.com/accounts/OAuthAuthorizeToken?oauth_token=4%2FJDsw8a4idmQQigpI94zYsJyzszQp&oauth_callback=http://localhost:3000/session/create
+Completed in 518ms (DB: 0) | 302 Found [http://localhost/session/new]
+
+
+Processing SessionController#create (for 127.0.0.1 at 2009-04-06 09:28:30) [GET]
+  Parameters: {"oauth_token"=>"4/JDsw8a4idmQQigpI94zYsJyzszQp"}
+totalResults1categorytermhttp://schemas.google.com/contact/2008#contactschemehttp://schemas.google.com/g/2005#kindtitletypetextcontentmahi mahi's Contactsauthornamemahi mahiemailmahimahi.corp@gmail.comitemsPerPage25startIndex1idmahimahi.corp@gmail.comxmlns:gdhttp://schemas.google.com/g/2005xmlns:gContacthttp://schemas.google.com/contact/2008entrycategorytermhttp://schemas.google.com/contact/2008#contactschemehttp://schemas.google.com/g/2005#kindtitletypetextcontentmahi mahiidhttp://www.google.com/m8/feeds/contacts/mahimahi.corp%40gmail.com/base/23c3295d0fec8722linkhrefhttp://www.google.com/m8/feeds/photos/media/mahimahi.corp%40gmail.com/23c3295d0fec8722/1B2M2Y8AsgTpgAmY7PhCfgrelhttp://schemas.google.com/contacts/2008/rel#edit-phototypeimage/*hrefhttp://www.google.com/m8/feeds/contacts/mahimahi.corp%40gmail.com/full/23c3295d0fec8722relselftypeapplication/atom+xmlhrefhttp://www.google.com/m8/feeds/contacts/mahimahi.corp%40gmail.com/full/23c3295d0fec8722/1234374573510000reledittypeapplication/atom+xmlupdated2009-02-11T17:49:33.510Zemailprimarytruerelhttp://schemas.google.com/g/2005#otheraddressmahimahi.corp@gmail.comgeneratorurihttp://www.google.com/m8/feedsversion1.0contentContactslinkhrefhttp://www.google.com/relalternatetypetext/htmlhrefhttp://www.google.com/m8/feeds/contacts/mahimahi.corp%40gmail.com/fullrelhttp://schemas.google.com/g/2005#feedtypeapplication/atom+xmlhrefhttp://www.google.com/m8/feeds/contacts/mahimahi.corp%40gmail.com/fullrelhttp://schemas.google.com/g/2005#posttypeapplication/atom+xmlhrefhttp://www.google.com/m8/feeds/contacts/mahimahi.corp%40gmail.com/full/batchrelhttp://schemas.google.com/g/2005#batchtypeapplication/atom+xmlhrefhttp://www.google.com/m8/feeds/contacts/mahimahi.corp%40gmail.com/full?max-results=25relselftypeapplication/atom+xmlupdated2009-04-06T07:28:32.051Zxmlns:openSearchhttp://a9.com/-/spec/opensearchrss/1.0/xmlnshttp://www.w3.org/2005/Atomxmlns:batchhttp://schemas.google.com/gdata/batch
+
+ActiveRecord::StatementInvalid (Could not find table 'users'):
+  app/controllers/session_controller.rb:18:in `create'
+
+Rendered rescues/_trace (46.4ms)
+Rendered rescues/_request_and_response (0.4ms)
+Rendering rescues/layout (internal_server_error)
+  [4;36;1mSQL (0.3ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (0.2ms)[0m   [0mselect sqlite_version(*)[0m
+  [4;36;1mSQL (2.9ms)[0m   [0;1mCREATE TABLE "schema_migrations" ("version" varchar(255) NOT NULL) [0m
+  [4;35;1mSQL (2.9ms)[0m   [0mCREATE UNIQUE INDEX "unique_schema_migrations" ON "schema_migrations" ("version")[0m
+  [4;36;1mSQL (0.3ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSELECT version FROM schema_migrations[0m
+Migrating to CreateUsers (20090406070147)
+  [4;36;1mSQL (0.8ms)[0m   [0;1mCREATE TABLE "users" ("id" INTEGER PRIMARY KEY AUTOINCREMENT NOT NULL, "name" varchar(255), "oauth_token" varchar(255), "oauth_secret" varchar(255), "email" varchar(255), "created_at" datetime, "updated_at" datetime) [0m
+  [4;35;1mSQL (0.1ms)[0m   [0mINSERT INTO schema_migrations (version) VALUES ('20090406070147')[0m
+  [4;36;1mSQL (0.3ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSELECT version FROM schema_migrations[0m
+  [4;36;1mSQL (0.2ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mPRAGMA index_list("users")[0m
+
+
+Processing SessionController#create (for 127.0.0.1 at 2009-04-06 09:29:13) [GET]
+  Parameters: {"oauth_token"=>"4/JDsw8a4idmQQigpI94zYsJyzszQp"}
+
+OAuth::Unauthorized (400 Bad Request):
+  oauth (0.3.2) lib/oauth/consumer.rb:166:in `token_request'
+  oauth (0.3.2) lib/oauth/tokens/request_token.rb:14:in `get_access_token'
+  app/controllers/session_controller.rb:14:in `create'
+
+Rendered rescues/_trace (37.8ms)
+Rendered rescues/_request_and_response (0.3ms)
+Rendering rescues/layout (internal_server_error)
+
+
+Processing SessionController#new (for 127.0.0.1 at 2009-04-06 09:29:16) [GET]
+Redirected to https://www.google.com/accounts/OAuthAuthorizeToken?oauth_token=4%2FWAGibHGnUA0kpopXEc7aWX39vtmL&oauth_callback=http://localhost:3000/session/create
+Completed in 670ms (DB: 0) | 302 Found [http://localhost/session/new]
+
+
+Processing SessionController#create (for 127.0.0.1 at 2009-04-06 09:29:18) [GET]
+  Parameters: {"oauth_token"=>"4/WAGibHGnUA0kpopXEc7aWX39vtmL"}
+  [4;36;1mUser Load (0.2ms)[0m   [0;1mSELECT * FROM "users" WHERE ("users"."email" = 'mahimahi.corp@gmail.com') LIMIT 1[0m
+  [4;35;1mUser Exists (0.2ms)[0m   [0mSELECT "users".id FROM "users" WHERE ("users"."email" = 'mahimahi.corp@gmail.com') LIMIT 1[0m
+  [4;36;1mCACHE (0.0ms)[0m   [0;1mSELECT "users".id FROM "users" WHERE ("users"."email" = 'mahimahi.corp@gmail.com') LIMIT 1[0m
+  [4;35;1mUser Create (0.6ms)[0m   [0mINSERT INTO "users" ("name", "updated_at", "oauth_token", "oauth_secret", "email", "created_at") VALUES('mahi mahi', '2009-04-06 07:29:20', '1/mcV9BZcHBWGQh7WCSR-WbQ', '7YPdLA9TbS4wokss7zA5NZ7t', 'mahimahi.corp@gmail.com', '2009-04-06 07:29:20')[0m
+Redirected to http://localhost:3000/account
+Completed in 1419ms (DB: 1) | 302 Found [http://localhost/session/create?oauth_token=4%2FWAGibHGnUA0kpopXEc7aWX39vtmL]
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2009-04-06 09:29:20) [GET]
+
+ActionController::RoutingError (No route matches "/account" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2009-04-06 12:06:36) [GET]
+
+ActionController::RoutingError (No route matches "/account" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+  [4;36;1mSQL (0.5ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (0.2ms)[0m   [0mSELECT version FROM schema_migrations[0m
+Migrating to CreateUsers (20090406070147)
+Migrating to CreateNotebooks (20090406100933)
+  [4;36;1mSQL (0.1ms)[0m   [0;1mselect sqlite_version(*)[0m
+  [4;36;1mSQL (0.5ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (0.2ms)[0m   [0mSELECT version FROM schema_migrations[0m
+Migrating to CreateUsers (20090406070147)
+Migrating to CreateNotebooks (20090406100933)
+  [4;36;1mSQL (0.1ms)[0m   [0;1mselect sqlite_version(*)[0m
+  [4;36;1mSQL (0.6ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (0.2ms)[0m   [0mSELECT version FROM schema_migrations[0m
+Migrating to CreateUsers (20090406070147)
+Migrating to CreateNotebooks (20090406100933)
+  [4;36;1mSQL (0.1ms)[0m   [0;1mselect sqlite_version(*)[0m
+  [4;35;1mSQL (0.6ms)[0m   [0mCREATE TABLE "notebooks" ("id" INTEGER PRIMARY KEY AUTOINCREMENT NOT NULL, "name" varchar(255), "creator" integer, "content" text, "created_at" datetime, "updated_at" datetime) [0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1mINSERT INTO schema_migrations (version) VALUES ('20090406100933')[0m
+  [4;35;1mSQL (0.3ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (0.2ms)[0m   [0;1mSELECT version FROM schema_migrations[0m
+  [4;35;1mSQL (0.2ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1mPRAGMA index_list("notebooks")[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mPRAGMA index_list("users")[0m
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2009-04-06 12:51:00) [GET]
+
+ActionController::RoutingError (No route matches "/account" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2009-04-06 12:51:05) [GET]
+
+ActionController::RoutingError (No route matches "/account" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing AccountController#index (for 127.0.0.1 at 2009-04-06 12:51:26) [GET]
+  [4;36;1mUser Load (0.4ms)[0m   [0;1mSELECT * FROM "users" WHERE ("users"."id" = 1) [0m
+
+NoMethodError (undefined method `notebooks' for #<User:0x2032364>):
+  app/controllers/account_controller.rb:4:in `index'
+
+Rendered rescues/_trace (129.3ms)
+Rendered rescues/_request_and_response (1.8ms)
+Rendering rescues/layout (internal_server_error)
+
+
+Processing AccountController#index (for 127.0.0.1 at 2009-04-06 12:51:28) [GET]
+  [4;35;1mUser Load (0.3ms)[0m   [0mSELECT * FROM "users" WHERE ("users"."id" = 1) [0m
+
+NoMethodError (undefined method `notebooks' for #<User:0x245e334>):
+  app/controllers/account_controller.rb:4:in `index'
+
+Rendered rescues/_trace (38.2ms)
+Rendered rescues/_request_and_response (0.3ms)
+Rendering rescues/layout (internal_server_error)
+  [4;36;1mSQL (0.6ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (0.2ms)[0m   [0mSELECT version FROM schema_migrations[0m
+Migrating to CreateUsers (20090406070147)
+Migrating to CreateNotebooks (20090406100933)
+Migrating to CreateNotebookUsers (20090406110006)
+  [4;36;1mSQL (0.1ms)[0m   [0;1mselect sqlite_version(*)[0m
+  [4;35;1mSQL (0.5ms)[0m   [0mCREATE TABLE "notebook_users" ("id" INTEGER PRIMARY KEY AUTOINCREMENT NOT NULL, "notebook_id" integer, "user_id" integer, "status" varchar(255), "created_at" datetime, "updated_at" datetime) [0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1mINSERT INTO schema_migrations (version) VALUES ('20090406110006')[0m
+  [4;35;1mSQL (0.4ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (0.2ms)[0m   [0;1mSELECT version FROM schema_migrations[0m
+  [4;35;1mSQL (0.2ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1mPRAGMA index_list("notebook_users")[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mPRAGMA index_list("notebooks")[0m
+  [4;36;1mSQL (0.0ms)[0m   [0;1mPRAGMA index_list("users")[0m
+
+
+Processing AccountController#index (for 127.0.0.1 at 2009-04-06 13:14:17) [GET]
+
+ActiveRecord::RecordNotFound (Couldn't find User without an ID):
+  app/controllers/account_controller.rb:4:in `index'
+
+Rendered rescues/_trace (42.6ms)
+Rendered rescues/_request_and_response (0.3ms)
+Rendering rescues/layout (not_found)
+
+
+Processing AccountController#index (for 127.0.0.1 at 2009-04-06 13:15:00) [GET]
+
+ActiveRecord::RecordNotFound (Couldn't find User without an ID):
+  app/controllers/account_controller.rb:5:in `index'
+
+Rendered rescues/_trace (37.8ms)
+Rendered rescues/_request_and_response (0.3ms)
+Rendering rescues/layout (not_found)
+
+
+Processing AccountController#index (for 127.0.0.1 at 2009-04-06 13:15:03) [GET]
+
+ActiveRecord::RecordNotFound (Couldn't find User without an ID):
+  app/controllers/account_controller.rb:5:in `index'
+
+Rendered rescues/_trace (36.3ms)
+Rendered rescues/_request_and_response (0.3ms)
+Rendering rescues/layout (not_found)
+
+
+Processing AccountController#index (for 127.0.0.1 at 2009-04-06 13:15:11) [GET]
+Redirected to http://localhost:3000/session/new
+Filter chain halted as [:login_required] rendered_or_redirected.
+Completed in 1ms (DB: 0) | 302 Found [http://localhost/account]
+
+
+Processing SessionController#new (for 127.0.0.1 at 2009-04-06 13:15:11) [GET]
+Redirected to https://www.google.com/accounts/OAuthAuthorizeToken?oauth_token=4%2FjQRc0GYCOIWJmE332fidl4qQJtOE&oauth_callback=http://localhost:3000/session/create
+Completed in 628ms (DB: 0) | 302 Found [http://localhost/session/new]
+
+
+Processing SessionController#create (for 127.0.0.1 at 2009-04-06 13:15:23) [GET]
+  Parameters: {"oauth_token"=>"4/jQRc0GYCOIWJmE332fidl4qQJtOE"}
+  [4;36;1mUser Load (0.2ms)[0m   [0;1mSELECT * FROM "users" WHERE ("users"."email" = 'olivier.mourlevat@gmail.com') LIMIT 1[0m
+  [4;35;1mUser Exists (0.2ms)[0m   [0mSELECT "users".id FROM "users" WHERE ("users"."email" = 'olivier.mourlevat@gmail.com') LIMIT 1[0m
+  [4;36;1mCACHE (0.0ms)[0m   [0;1mSELECT "users".id FROM "users" WHERE ("users"."email" = 'olivier.mourlevat@gmail.com') LIMIT 1[0m
+  [4;35;1mUser Create (0.5ms)[0m   [0mINSERT INTO "users" ("name", "updated_at", "oauth_token", "oauth_secret", "email", "created_at") VALUES('olivM', '2009-04-06 11:15:25', '1/3jWZLOZr_JmQp4kJkGtbkg', '6zjdySsiViA1rNodaKijNVAO', 'olivier.mourlevat@gmail.com', '2009-04-06 11:15:25')[0m
+Redirected to http://localhost:3000/account
+Completed in 2623ms (DB: 1) | 302 Found [http://localhost/session/create?oauth_token=4%2FjQRc0GYCOIWJmE332fidl4qQJtOE]
+
+
+Processing AccountController#index (for 127.0.0.1 at 2009-04-06 13:15:25) [GET]
+  [4;36;1mUser Load (0.3ms)[0m   [0;1mSELECT * FROM "users" WHERE ("users"."id" = 2) [0m
+  [4;35;1mCACHE (0.0ms)[0m   [0mSELECT * FROM "users" WHERE ("users"."id" = 2) [0m
+
+NoMethodError (undefined method `notebooks' for #<User:0x114953c>):
+  app/controllers/account_controller.rb:5:in `index'
+
+Rendered rescues/_trace (37.8ms)
+Rendered rescues/_request_and_response (0.3ms)
+Rendering rescues/layout (internal_server_error)
+  [4;36;1mUser Load (0.4ms)[0m   [0;1mSELECT * FROM "users" WHERE ("users"."id" = 1) [0m
+  [4;35;1mUser Load (0.4ms)[0m   [0mSELECT * FROM "users" WHERE ("users"."id" = 1) [0m
+  [4;36;1mUser Load (0.3ms)[0m   [0;1mSELECT * FROM "users" WHERE ("users"."id" = 1) [0m
+  [4;35;1mNotebook Create (0.5ms)[0m   [0mINSERT INTO "notebooks" ("name", "creator", "updated_at", "content", "created_at") VALUES('truc', NULL, '2009-04-06 11:19:48', NULL, '2009-04-06 11:19:48')[0m
+  [4;36;1mUser Load (0.3ms)[0m   [0;1mSELECT * FROM "users" WHERE ("users"."id" = 1) [0m
+  [4;35;1mNotebook Create (0.4ms)[0m   [0mINSERT INTO "notebooks" ("name", "creator", "updated_at", "content", "created_at") VALUES('truc', NULL, '2009-04-06 11:20:27', NULL, '2009-04-06 11:20:27')[0m
+  [4;36;1mUser Load (0.6ms)[0m   [0;1mSELECT * FROM "users" WHERE ("users"."id" = 1) [0m
+  [4;35;1mNotebook Create (0.4ms)[0m   [0mINSERT INTO "notebooks" ("name", "creator", "updated_at", "content", "created_at") VALUES('truc', NULL, '2009-04-06 11:21:09', NULL, '2009-04-06 11:21:09')[0m
+  [4;36;1mUser Load (0.3ms)[0m   [0;1mSELECT * FROM "users" WHERE ("users"."id" = 1) [0m
+  [4;35;1mNotebook Create (0.4ms)[0m   [0mINSERT INTO "notebooks" ("name", "creator", "updated_at", "content", "created_at") VALUES('truc', NULL, '2009-04-06 11:21:49', NULL, '2009-04-06 11:21:49')[0m
+  [4;36;1mUser Load (0.3ms)[0m   [0;1mSELECT * FROM "users" WHERE ("users"."id" = 1) [0m
+  [4;35;1mNotebook Create (0.4ms)[0m   [0mINSERT INTO "notebooks" ("name", "creator", "updated_at", "content", "created_at") VALUES('truc', NULL, '2009-04-06 11:22:05', NULL, '2009-04-06 11:22:05')[0m
+  [4;36;1mUser Load (0.3ms)[0m   [0;1mSELECT * FROM "users" WHERE ("users"."id" = 1) [0m
+  [4;35;1mNotebook Create (0.4ms)[0m   [0mINSERT INTO "notebooks" ("name", "creator", "updated_at", "content", "created_at") VALUES('truc', NULL, '2009-04-06 11:22:07', NULL, '2009-04-06 11:22:07')[0m
+  [4;36;1mSQL (0.6ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (0.2ms)[0m   [0mSELECT version FROM schema_migrations[0m
+  [4;36;1mSQL (0.2ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (0.2ms)[0m   [0mSELECT version FROM schema_migrations[0m
+  [4;36;1mSQL (0.9ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (0.3ms)[0m   [0mSELECT version FROM schema_migrations[0m
+  [4;36;1mSQL (0.3ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (0.3ms)[0m   [0mSELECT version FROM schema_migrations[0m
+Migrating to CreateNotebookUsers (20090406110006)
+  [4;36;1mSQL (0.1ms)[0m   [0;1mselect sqlite_version(*)[0m
+  [4;35;1mSQL (0.6ms)[0m   [0mDROP TABLE "notebook_users"[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1mDELETE FROM schema_migrations WHERE version = '20090406110006'[0m
+Migrating to CreateNotebooks (20090406100933)
+  [4;35;1mSQL (0.5ms)[0m   [0mDROP TABLE "notebooks"[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1mDELETE FROM schema_migrations WHERE version = '20090406100933'[0m
+Migrating to CreateUsers (20090406070147)
+  [4;35;1mSQL (0.5ms)[0m   [0mDROP TABLE "users"[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1mDELETE FROM schema_migrations WHERE version = '20090406070147'[0m
+  [4;35;1mSQL (0.3ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSELECT version FROM schema_migrations[0m
+  [4;35;1mSQL (0.2ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (0.5ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSELECT version FROM schema_migrations[0m
+Migrating to CreateUsers (20090406070147)
+  [4;36;1mSQL (0.1ms)[0m   [0;1mselect sqlite_version(*)[0m
+  [4;35;1mSQL (0.8ms)[0m   [0mCREATE TABLE "users" ("id" INTEGER PRIMARY KEY AUTOINCREMENT NOT NULL, "name" varchar(255), "oauth_token" varchar(255), "oauth_secret" varchar(255), "email" varchar(255), "created_at" datetime, "updated_at" datetime) [0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1mINSERT INTO schema_migrations (version) VALUES ('20090406070147')[0m
+Migrating to CreateNotebooks (20090406100933)
+  [4;35;1mSQL (0.5ms)[0m   [0mCREATE TABLE "notebooks" ("id" INTEGER PRIMARY KEY AUTOINCREMENT NOT NULL, "name" varchar(255), "creator_id" integer, "content" text, "created_at" datetime, "updated_at" datetime) [0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1mINSERT INTO schema_migrations (version) VALUES ('20090406100933')[0m
+Migrating to CreateNotebookUsers (20090406110006)
+  [4;35;1mSQL (0.5ms)[0m   [0mCREATE TABLE "notebook_users" ("id" INTEGER PRIMARY KEY AUTOINCREMENT NOT NULL, "notebook_id" integer, "user_id" integer, "status" varchar(255), "created_at" datetime, "updated_at" datetime) [0m
+  [4;36;1mSQL (0.2ms)[0m   [0;1mINSERT INTO schema_migrations (version) VALUES ('20090406110006')[0m
+  [4;35;1mSQL (0.3ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (0.2ms)[0m   [0;1mSELECT version FROM schema_migrations[0m
+  [4;35;1mSQL (0.3ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1mPRAGMA index_list("notebook_users")[0m
+  [4;35;1mSQL (0.4ms)[0m   [0mPRAGMA index_list("notebooks")[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1mPRAGMA index_list("users")[0m
+
+
+Processing AccountController#index (for 127.0.0.1 at 2009-04-06 13:23:37) [GET]
+  [4;36;1mUser Load (0.1ms)[0m   [0;1mSELECT * FROM "users" WHERE ("users"."id" = 2) [0m
+
+ActiveRecord::RecordNotFound (Couldn't find User with ID=2):
+  app/controllers/application_controller.rb:13:in `login_required'
+
+Rendered rescues/_trace (40.6ms)
+Rendered rescues/_request_and_response (0.3ms)
+Rendering rescues/layout (not_found)
+
+
+Processing AccountController#index (for 127.0.0.1 at 2009-04-06 13:23:39) [GET]
+  [4;35;1mUser Load (0.2ms)[0m   [0mSELECT * FROM "users" WHERE ("users"."id" = 2) [0m
+
+ActiveRecord::RecordNotFound (Couldn't find User with ID=2):
+  app/controllers/application_controller.rb:13:in `login_required'
+
+Rendered rescues/_trace (40.1ms)
+Rendered rescues/_request_and_response (0.3ms)
+Rendering rescues/layout (not_found)
+
+
+Processing SessionController#new (for 127.0.0.1 at 2009-04-06 13:23:46) [GET]
+Redirected to https://www.google.com/accounts/OAuthAuthorizeToken?oauth_token=4%2FPB6EOB3PeB3DA8wofWDZF9WPK58P&oauth_callback=http://localhost:3000/session/create
+Completed in 624ms (DB: 0) | 302 Found [http://localhost/session/new]
+
+
+Processing SessionController#create (for 127.0.0.1 at 2009-04-06 13:23:51) [GET]
+  Parameters: {"oauth_token"=>"4/PB6EOB3PeB3DA8wofWDZF9WPK58P"}
+  [4;36;1mUser Load (0.2ms)[0m   [0;1mSELECT * FROM "users" WHERE ("users"."email" = 'olivier.mourlevat@gmail.com') LIMIT 1[0m
+  [4;35;1mUser Exists (0.2ms)[0m   [0mSELECT "users".id FROM "users" WHERE ("users"."email" = 'olivier.mourlevat@gmail.com') LIMIT 1[0m
+  [4;36;1mCACHE (0.0ms)[0m   [0;1mSELECT "users".id FROM "users" WHERE ("users"."email" = 'olivier.mourlevat@gmail.com') LIMIT 1[0m
+  [4;35;1mUser Create (0.4ms)[0m   [0mINSERT INTO "users" ("name", "updated_at", "oauth_token", "oauth_secret", "email", "created_at") VALUES('olivM', '2009-04-06 11:23:53', '1/KAwAeoiaR4ehbqnHFpTWMWATiaQZnWPB51nTvo8n9Sw', 'LdDpExhMctM1XvohlYWtaxHb', 'olivier.mourlevat@gmail.com', '2009-04-06 11:23:53')[0m
+Redirected to http://localhost:3000/account
+Completed in 1485ms (DB: 1) | 302 Found [http://localhost/session/create?oauth_token=4%2FPB6EOB3PeB3DA8wofWDZF9WPK58P]
+
+
+Processing AccountController#index (for 127.0.0.1 at 2009-04-06 13:23:53) [GET]
+  [4;36;1mUser Load (0.3ms)[0m   [0;1mSELECT * FROM "users" WHERE ("users"."id" = 1) [0m
+  [4;35;1mCACHE (0.0ms)[0m   [0mSELECT * FROM "users" WHERE ("users"."id" = 1) [0m
+
+NameError (uninitialized constant User::NotebookUser):
+  app/controllers/account_controller.rb:5:in `index'
+
+Rendered rescues/_trace (42.8ms)
+Rendered rescues/_request_and_response (0.3ms)
+Rendering rescues/layout (internal_server_error)
+  [4;36;1mUser Load (0.3ms)[0m   [0;1mSELECT * FROM "users" WHERE ("users"."id" = 1) [0m
+  [4;35;1mNotebook Create (0.4ms)[0m   [0mINSERT INTO "notebooks" ("name", "updated_at", "creator_id", "content", "created_at") VALUES('truc', '2009-04-06 11:24:02', 1, NULL, '2009-04-06 11:24:02')[0m
+  [4;36;1mNotebook Load (0.2ms)[0m   [0;1mSELECT * FROM "notebooks" WHERE ("notebooks"."id" = 1) [0m
+  [4;35;1mNotebook Load (0.3ms)[0m   [0mSELECT * FROM "notebooks" WHERE ("notebooks"."id" = 1) [0m
+  [4;36;1mNotebook Load (0.3ms)[0m   [0;1mSELECT * FROM "notebooks" WHERE ("notebooks"."id" = 1) [0m
+  [4;35;1mNotebook Load (0.2ms)[0m   [0mSELECT * FROM "notebooks" WHERE ("notebooks"."id" = 1) [0m
+  [4;36;1mNotebook Load (0.3ms)[0m   [0;1mSELECT * FROM "notebooks" WHERE ("notebooks"."id" = 1) [0m
+  [4;35;1mNotebook Load (0.3ms)[0m   [0mSELECT * FROM "notebooks" WHERE ("notebooks"."id" = 1) [0m
+  [4;36;1mSQL (0.6ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (0.2ms)[0m   [0mSELECT version FROM schema_migrations[0m
+  [4;36;1mSQL (0.3ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (0.2ms)[0m   [0mSELECT version FROM schema_migrations[0m
+Migrating to CreateNotebookUsers (20090406110006)
+  [4;36;1mSQL (0.1ms)[0m   [0;1mselect sqlite_version(*)[0m
+  [4;36;1mSQL (0.3ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mselect sqlite_version(*)[0m
+  [4;36;1mSQL (2.6ms)[0m   [0;1mCREATE TABLE "schema_migrations" ("version" varchar(255) NOT NULL) [0m
+  [4;35;1mSQL (2.6ms)[0m   [0mCREATE UNIQUE INDEX "unique_schema_migrations" ON "schema_migrations" ("version")[0m
+  [4;36;1mSQL (0.4ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (0.2ms)[0m   [0mSELECT version FROM schema_migrations[0m
+Migrating to CreateUsers (20090406070147)
+  [4;36;1mSQL (0.6ms)[0m   [0;1mCREATE TABLE "users" ("id" INTEGER PRIMARY KEY AUTOINCREMENT NOT NULL, "name" varchar(255), "oauth_token" varchar(255), "oauth_secret" varchar(255), "email" varchar(255), "created_at" datetime, "updated_at" datetime) [0m
+  [4;35;1mSQL (0.2ms)[0m   [0mINSERT INTO schema_migrations (version) VALUES ('20090406070147')[0m
+Migrating to CreateNotebooks (20090406100933)
+  [4;36;1mSQL (0.5ms)[0m   [0;1mCREATE TABLE "notebooks" ("id" INTEGER PRIMARY KEY AUTOINCREMENT NOT NULL, "name" varchar(255), "creator_id" integer, "content" text, "created_at" datetime, "updated_at" datetime) [0m
+  [4;35;1mSQL (0.1ms)[0m   [0mINSERT INTO schema_migrations (version) VALUES ('20090406100933')[0m
+Migrating to CreateNotebookUsers (20090406110006)
+  [4;36;1mSQL (0.6ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (0.4ms)[0m   [0mSELECT version FROM schema_migrations[0m
+Migrating to CreateUsers (20090406070147)
+Migrating to CreateNotebooks (20090406100933)
+Migrating to CreateNotebookUser (20090406110006)
+  [4;36;1mSQL (0.1ms)[0m   [0;1mselect sqlite_version(*)[0m
+  [4;35;1mSQL (0.6ms)[0m   [0mCREATE TABLE "notebook_user" ("id" INTEGER PRIMARY KEY AUTOINCREMENT NOT NULL, "notebook_id" integer, "user_id" integer, "status" varchar(255), "created_at" datetime, "updated_at" datetime) [0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1mINSERT INTO schema_migrations (version) VALUES ('20090406110006')[0m
+  [4;35;1mSQL (0.4ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (0.3ms)[0m   [0;1mSELECT version FROM schema_migrations[0m
+  [4;35;1mSQL (0.3ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1mPRAGMA index_list("notebook_user")[0m
+  [4;35;1mSQL (0.0ms)[0m   [0mPRAGMA index_list("notebooks")[0m
+  [4;36;1mSQL (0.0ms)[0m   [0;1mPRAGMA index_list("users")[0m
+
+
+Processing SessionController#new (for 127.0.0.1 at 2009-04-06 13:27:35) [GET]
+Redirected to https://www.google.com/accounts/OAuthAuthorizeToken?oauth_token=4%2FRrZyw5JNdBcxrHx8prmqLIRyTdp8&oauth_callback=http://localhost:3000/session/create
+Completed in 523ms (DB: 0) | 302 Found [http://localhost/session/new]
+
+
+Processing SessionController#create (for 127.0.0.1 at 2009-04-06 13:27:40) [GET]
+  Parameters: {"oauth_token"=>"4/RrZyw5JNdBcxrHx8prmqLIRyTdp8"}
+  [4;36;1mUser Load (0.2ms)[0m   [0;1mSELECT * FROM "users" WHERE ("users"."email" = 'mahimahi.corp@gmail.com') LIMIT 1[0m
+  [4;35;1mUser Exists (0.2ms)[0m   [0mSELECT "users".id FROM "users" WHERE ("users"."email" = 'mahimahi.corp@gmail.com') LIMIT 1[0m
+  [4;36;1mCACHE (0.0ms)[0m   [0;1mSELECT "users".id FROM "users" WHERE ("users"."email" = 'mahimahi.corp@gmail.com') LIMIT 1[0m
+  [4;35;1mUser Create (0.5ms)[0m   [0mINSERT INTO "users" ("name", "updated_at", "oauth_token", "oauth_secret", "email", "created_at") VALUES('mahi mahi', '2009-04-06 11:27:41', '1/Jexek7_YGfaNzls0qyFD2g', 'OCyRdhRPwQ4bkjj7fQQYipi3', 'mahimahi.corp@gmail.com', '2009-04-06 11:27:41')[0m
+Redirected to http://localhost:3000/account
+Completed in 1492ms (DB: 1) | 302 Found [http://localhost/session/create?oauth_token=4%2FRrZyw5JNdBcxrHx8prmqLIRyTdp8]
+
+
+Processing AccountController#index (for 127.0.0.1 at 2009-04-06 13:27:41) [GET]
+  [4;36;1mUser Load (0.4ms)[0m   [0;1mSELECT * FROM "users" WHERE ("users"."id" = 1) [0m
+  [4;35;1mCACHE (0.0ms)[0m   [0mSELECT * FROM "users" WHERE ("users"."id" = 1) [0m
+
+NameError (uninitialized constant User::NotebookUser):
+  app/controllers/account_controller.rb:5:in `index'
+
+Rendered rescues/_trace (46.9ms)
+Rendered rescues/_request_and_response (0.3ms)
+Rendering rescues/layout (internal_server_error)
+  [4;36;1mNotebook Load (0.1ms)[0m   [0;1mSELECT * FROM "notebooks" WHERE ("notebooks"."id" = 1) [0m
+  [4;35;1mUser Load (0.3ms)[0m   [0mSELECT * FROM "users" WHERE ("users"."id" = 1) [0m
+  [4;36;1mNotebook Create (0.4ms)[0m   [0;1mINSERT INTO "notebooks" ("name", "updated_at", "creator_id", "content", "created_at") VALUES('truc', '2009-04-06 11:27:58', 1, NULL, '2009-04-06 11:27:58')[0m
+  [4;35;1mNotebook Load (0.3ms)[0m   [0mSELECT * FROM "notebooks" WHERE ("notebooks"."id" = 1) [0m
+  [4;36;1mNotebook Load (0.3ms)[0m   [0;1mSELECT * FROM "notebooks" WHERE ("notebooks"."id" = 1) [0m
+  [4;35;1mNotebook Load (0.5ms)[0m   [0mSELECT * FROM "notebooks" WHERE ("notebooks"."id" = 1) [0m
+  [4;36;1mNotebook Load (0.2ms)[0m   [0;1mSELECT * FROM "notebooks" WHERE ("notebooks"."id" = 1) [0m
+  [4;35;1mNotebook Load (0.3ms)[0m   [0mSELECT * FROM "notebooks" WHERE ("notebooks"."id" = 1) [0m
+  [4;36;1mNotebook Load (0.2ms)[0m   [0;1mSELECT * FROM "notebooks" WHERE ("notebooks"."id" = 1) [0m
+  [4;36;1mSQL (0.3ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mselect sqlite_version(*)[0m
+  [4;36;1mSQL (2.6ms)[0m   [0;1mCREATE TABLE "schema_migrations" ("version" varchar(255) NOT NULL) [0m
+  [4;35;1mSQL (2.7ms)[0m   [0mCREATE UNIQUE INDEX "unique_schema_migrations" ON "schema_migrations" ("version")[0m
+  [4;36;1mSQL (0.4ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSELECT version FROM schema_migrations[0m
+Migrating to CreateUsers (20090406070147)
+  [4;36;1mSQL (0.6ms)[0m   [0;1mCREATE TABLE "users" ("id" INTEGER PRIMARY KEY AUTOINCREMENT NOT NULL, "name" varchar(255), "oauth_token" varchar(255), "oauth_secret" varchar(255), "email" varchar(255), "created_at" datetime, "updated_at" datetime) [0m
+  [4;35;1mSQL (0.1ms)[0m   [0mINSERT INTO schema_migrations (version) VALUES ('20090406070147')[0m
+Migrating to CreateNotebooks (20090406100933)
+  [4;36;1mSQL (0.5ms)[0m   [0;1mCREATE TABLE "notebooks" ("id" INTEGER PRIMARY KEY AUTOINCREMENT NOT NULL, "name" varchar(255), "creator_id" integer, "content" text, "created_at" datetime, "updated_at" datetime) [0m
+  [4;35;1mSQL (0.1ms)[0m   [0mINSERT INTO schema_migrations (version) VALUES ('20090406100933')[0m
+Migrating to CreateNotebookUsers (20090406110006)
+  [4;36;1mSQL (0.8ms)[0m   [0;1mCREATE TABLE "notebook_users" ("id" INTEGER PRIMARY KEY AUTOINCREMENT NOT NULL, "notebook_id" integer, "user_id" integer, "status" varchar(255), "created_at" datetime, "updated_at" datetime) [0m
+  [4;35;1mSQL (0.2ms)[0m   [0mINSERT INTO schema_migrations (version) VALUES ('20090406110006')[0m
+  [4;36;1mSQL (0.3ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (0.2ms)[0m   [0mSELECT version FROM schema_migrations[0m
+  [4;36;1mSQL (0.2ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mPRAGMA index_list("notebook_users")[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1mPRAGMA index_list("notebooks")[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mPRAGMA index_list("users")[0m
+
+
+Processing SessionController#new (for 127.0.0.1 at 2009-04-06 13:34:08) [GET]
+Redirected to https://www.google.com/accounts/OAuthAuthorizeToken?oauth_token=4%2Fo0rDk8ENLMqdW3cPhHUc6iTajyJO&oauth_callback=http://localhost:3000/session/create
+Completed in 469ms (DB: 0) | 302 Found [http://localhost/session/new]
+
+
+Processing SessionController#create (for 127.0.0.1 at 2009-04-06 13:34:11) [GET]
+  Parameters: {"oauth_token"=>"4/o0rDk8ENLMqdW3cPhHUc6iTajyJO"}
+  [4;36;1mUser Load (0.1ms)[0m   [0;1mSELECT * FROM "users" WHERE ("users"."email" = 'mahimahi.corp@gmail.com') LIMIT 1[0m
+  [4;35;1mUser Exists (0.2ms)[0m   [0mSELECT "users".id FROM "users" WHERE ("users"."email" = 'mahimahi.corp@gmail.com') LIMIT 1[0m
+  [4;36;1mCACHE (0.0ms)[0m   [0;1mSELECT "users".id FROM "users" WHERE ("users"."email" = 'mahimahi.corp@gmail.com') LIMIT 1[0m
+  [4;35;1mUser Create (0.5ms)[0m   [0mINSERT INTO "users" ("name", "updated_at", "oauth_token", "oauth_secret", "email", "created_at") VALUES('mahi mahi', '2009-04-06 11:34:12', '1/ZcAEKRF1uXKFj2NEfuOlYQ', 'OtEwZ9QHgHfMt6+wtyVCGq7g', 'mahimahi.corp@gmail.com', '2009-04-06 11:34:12')[0m
+Redirected to http://localhost:3000/account
+Completed in 1168ms (DB: 1) | 302 Found [http://localhost/session/create?oauth_token=4%2Fo0rDk8ENLMqdW3cPhHUc6iTajyJO]
+
+
+Processing AccountController#index (for 127.0.0.1 at 2009-04-06 13:34:12) [GET]
+  [4;36;1mUser Load (0.4ms)[0m   [0;1mSELECT * FROM "users" WHERE ("users"."id" = 1) [0m
+  [4;35;1mCACHE (0.0ms)[0m   [0mSELECT * FROM "users" WHERE ("users"."id" = 1) [0m
+
+NameError (uninitialized constant User::NotebookUser):
+  app/controllers/account_controller.rb:5:in `index'
+
+Rendered rescues/_trace (44.0ms)
+Rendered rescues/_request_and_response (0.3ms)
+Rendering rescues/layout (internal_server_error)
+  [4;35;1mUser Load (0.2ms)[0m   [0mSELECT * FROM "users" WHERE ("users"."id" = 1) [0m
+  [4;36;1mNotebook Create (0.4ms)[0m   [0;1mINSERT INTO "notebooks" ("name", "updated_at", "creator_id", "content", "created_at") VALUES('truc', '2009-04-06 11:34:19', 1, NULL, '2009-04-06 11:34:19')[0m
+  [4;35;1mNotebook Load (0.3ms)[0m   [0mSELECT * FROM "notebooks" WHERE ("notebooks"."id" = 1) [0m
+  [4;36;1mNotebook Load (0.4ms)[0m   [0;1mSELECT * FROM "notebooks" WHERE ("notebooks"."id" = 1) [0m
+  [4;35;1mUser Load (0.3ms)[0m   [0mSELECT * FROM "users" WHERE ("users"."id" = 1) [0m
+  [4;36;1mNotebook Load (0.3ms)[0m   [0;1mSELECT * FROM "notebooks" WHERE ("notebooks"."id" = 1) [0m
+  [4;35;1mNotebook Load (0.2ms)[0m   [0mSELECT * FROM "notebooks" WHERE ("notebooks"."id" = 1) [0m
+  [4;36;1mNotebook Load (0.3ms)[0m   [0;1mSELECT * FROM "notebooks" WHERE ("notebooks"."id" = 1) [0m
+  [4;35;1mNotebook Load (0.3ms)[0m   [0mSELECT * FROM "notebooks" WHERE ("notebooks"."id" = 1) [0m
+  [4;36;1mNotebook Load (0.2ms)[0m   [0;1mSELECT * FROM "notebooks" WHERE ("notebooks"."id" = 1) [0m
+  [4;36;1mSQL (0.6ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (0.2ms)[0m   [0mSELECT version FROM schema_migrations[0m
+Migrating to CreateUsers (20090406070147)
+Migrating to CreateNotebooks (20090406100933)
+Migrating to CreateNotebookUsers (20090406110006)
+  [4;36;1mSQL (0.1ms)[0m   [0;1mselect sqlite_version(*)[0m
+  [4;35;1mSQL (0.3ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (0.2ms)[0m   [0;1mSELECT version FROM schema_migrations[0m
+  [4;35;1mSQL (0.2ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (0.0ms)[0m   [0;1mPRAGMA index_list("notebook_users")[0m
+  [4;35;1mSQL (0.0ms)[0m   [0mPRAGMA index_list("notebooks")[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1mPRAGMA index_list("users")[0m
+  [4;36;1mNotebook Load (0.4ms)[0m   [0;1mSELECT * FROM "notebooks" WHERE ("notebooks"."id" = 1) [0m
+  [4;35;1mUser Load (0.3ms)[0m   [0mSELECT * FROM "users" WHERE ("users"."id" = 1) [0m
+  [4;36;1mNotebook Load (0.4ms)[0m   [0;1mSELECT * FROM "notebooks" WHERE ("notebooks"."id" = 1) [0m
+  [4;35;1mNotebook Load (0.3ms)[0m   [0mSELECT * FROM "notebooks" WHERE ("notebooks"."id" = 1) [0m
+  [4;36;1mNotebook Load (0.2ms)[0m   [0;1mSELECT * FROM "notebooks" WHERE ("notebooks"."id" = 1) [0m
+  [4;35;1mNotebook Load (0.3ms)[0m   [0mSELECT * FROM "notebooks" WHERE ("notebooks"."id" = 1) [0m
+  [4;36;1mNotebook Load (0.3ms)[0m   [0;1mSELECT * FROM "notebooks" WHERE ("notebooks"."id" = 1) [0m
+  [4;35;1mNotebook Load (0.3ms)[0m   [0mSELECT * FROM "notebooks" WHERE ("notebooks"."id" = 1) [0m
+  [4;36;1mSQL (0.3ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (0.3ms)[0m   [0mselect sqlite_version(*)[0m
+  [4;36;1mSQL (2.0ms)[0m   [0;1mCREATE TABLE "schema_migrations" ("version" varchar(255) NOT NULL) [0m
+  [4;35;1mSQL (2.2ms)[0m   [0mCREATE UNIQUE INDEX "unique_schema_migrations" ON "schema_migrations" ("version")[0m
+  [4;36;1mSQL (0.2ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSELECT version FROM schema_migrations[0m
+Migrating to CreateUsers (20090406070147)
+  [4;36;1mSQL (0.6ms)[0m   [0;1mCREATE TABLE "users" ("id" INTEGER PRIMARY KEY AUTOINCREMENT NOT NULL, "name" varchar(255), "oauth_token" varchar(255), "oauth_secret" varchar(255), "email" varchar(255), "created_at" datetime, "updated_at" datetime) [0m
+  [4;35;1mSQL (0.6ms)[0m   [0mINSERT INTO schema_migrations (version) VALUES ('20090406070147')[0m
+Migrating to CreateNotebooks (20090406100933)
+  [4;36;1mSQL (0.5ms)[0m   [0;1mCREATE TABLE "notebooks" ("id" INTEGER PRIMARY KEY AUTOINCREMENT NOT NULL, "name" varchar(255), "creator_id" integer, "content" text, "created_at" datetime, "updated_at" datetime) [0m
+  [4;35;1mSQL (0.1ms)[0m   [0mINSERT INTO schema_migrations (version) VALUES ('20090406100933')[0m
+Migrating to CreateAnnoters (20090406121930)
+  [4;36;1mSQL (0.6ms)[0m   [0;1mCREATE TABLE "annoters" ("id" INTEGER PRIMARY KEY AUTOINCREMENT NOT NULL, "user_id" integer, "notebook_id" integer, "string" varchar(255), "created_at" datetime, "updated_at" datetime) [0m
+  [4;35;1mSQL (0.2ms)[0m   [0mINSERT INTO schema_migrations (version) VALUES ('20090406121930')[0m
+  [4;36;1mSQL (0.3ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (0.2ms)[0m   [0mSELECT version FROM schema_migrations[0m
+  [4;36;1mSQL (0.2ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mPRAGMA index_list("annoters")[0m
+  [4;36;1mSQL (0.0ms)[0m   [0;1mPRAGMA index_list("notebooks")[0m
+  [4;35;1mSQL (0.0ms)[0m   [0mPRAGMA index_list("users")[0m
+
+
+Processing SessionController#new (for 127.0.0.1 at 2009-04-06 14:21:08) [GET]
+Redirected to https://www.google.com/accounts/OAuthAuthorizeToken?oauth_token=4%2FbV3D5MD6sstM7rWGTybBumfAX-Kk&oauth_callback=http://localhost:3000/session/create
+Completed in 584ms (DB: 0) | 302 Found [http://localhost/session/new]
+
+
+Processing SessionController#create (for 127.0.0.1 at 2009-04-06 14:21:12) [GET]
+  Parameters: {"oauth_token"=>"4/bV3D5MD6sstM7rWGTybBumfAX-Kk"}
+  [4;36;1mUser Load (0.2ms)[0m   [0;1mSELECT * FROM "users" WHERE ("users"."email" = 'mahimahi.corp@gmail.com') LIMIT 1[0m
+  [4;35;1mUser Exists (0.2ms)[0m   [0mSELECT "users".id FROM "users" WHERE ("users"."email" = 'mahimahi.corp@gmail.com') LIMIT 1[0m
+  [4;36;1mCACHE (0.0ms)[0m   [0;1mSELECT "users".id FROM "users" WHERE ("users"."email" = 'mahimahi.corp@gmail.com') LIMIT 1[0m
+  [4;35;1mUser Create (1.8ms)[0m   [0mINSERT INTO "users" ("name", "updated_at", "oauth_token", "oauth_secret", "email", "created_at") VALUES('mahi mahi', '2009-04-06 12:21:14', '1/2tzJ56HSHWTo5vzeiZzN7w', '3BMWFhKJOKDlxYZoCmMQAOys', 'mahimahi.corp@gmail.com', '2009-04-06 12:21:14')[0m
+Redirected to http://localhost:3000/account
+Completed in 1574ms (DB: 2) | 302 Found [http://localhost/session/create?oauth_token=4%2FbV3D5MD6sstM7rWGTybBumfAX-Kk]
+
+
+Processing AccountController#index (for 127.0.0.1 at 2009-04-06 14:21:14) [GET]
+  [4;36;1mUser Load (0.6ms)[0m   [0;1mSELECT * FROM "users" WHERE ("users"."id" = 1) [0m
+  [4;35;1mCACHE (0.0ms)[0m   [0mSELECT * FROM "users" WHERE ("users"."id" = 1) [0m
+
+NameError (uninitialized constant User::Annoter):
+  app/controllers/account_controller.rb:5:in `index'
+
+Rendered rescues/_trace (50.8ms)
+Rendered rescues/_request_and_response (0.3ms)
+Rendering rescues/layout (internal_server_error)
+  [4;36;1mUser Load (0.4ms)[0m   [0;1mSELECT * FROM "users" WHERE ("users"."id" = 1) [0m
+  [4;35;1mNotebook Create (0.5ms)[0m   [0mINSERT INTO "notebooks" ("name", "updated_at", "creator_id", "content", "created_at") VALUES('truc', '2009-04-06 12:21:24', 1, NULL, '2009-04-06 12:21:24')[0m
+  [4;36;1mNotebook Load (0.4ms)[0m   [0;1mSELECT * FROM "notebooks" WHERE ("notebooks"."id" = 1) [0m
+  [4;35;1mNotebook Load (0.3ms)[0m   [0mSELECT * FROM "notebooks" WHERE ("notebooks"."id" = 1) [0m
+  [4;36;1mNotebook Load (0.3ms)[0m   [0;1mSELECT * FROM "notebooks" WHERE ("notebooks"."id" = 1) [0m
+  [4;35;1mNotebook Load (0.3ms)[0m   [0mSELECT * FROM "notebooks" WHERE ("notebooks"."id" = 1) [0m
+  [4;36;1mNotebook Load (0.3ms)[0m   [0;1mSELECT * FROM "notebooks" WHERE ("notebooks"."id" = 1) [0m
+  [4;35;1mUser Load (0.2ms)[0m   [0mSELECT "users".* FROM "users" INNER JOIN "annoters" ON "users".id = "annoters".user_id WHERE (("annoters".notebook_id = 1)) [0m
+  [4;36;1mNotebook Load (0.3ms)[0m   [0;1mSELECT * FROM "notebooks" WHERE ("notebooks"."id" = 1) [0m
+  [4;35;1mUser Load (0.2ms)[0m   [0mSELECT "users".* FROM "users" INNER JOIN "annoters" ON "users".id = "annoters".user_id WHERE (("annoters".notebook_id = 1)) [0m
+  [4;36;1mNotebook Load (0.6ms)[0m   [0;1mSELECT * FROM "notebooks" [0m
+  [4;35;1mNotebook Destroy (0.4ms)[0m   [0mDELETE FROM "notebooks" WHERE "id" = 1[0m
+  [4;36;1mNotebook Load (0.2ms)[0m   [0;1mSELECT * FROM "notebooks" WHERE ("notebooks"."id" = 1) [0m
+  [4;35;1mNotebook Load (0.2ms)[0m   [0mSELECT * FROM "notebooks" WHERE ("notebooks"."id" = 2) [0m
+  [4;36;1mNotebook Load (0.2ms)[0m   [0;1mSELECT * FROM "notebooks" [0m
+  [4;35;1mUser Load (0.3ms)[0m   [0mSELECT * FROM "users" WHERE ("users"."id" = 1) [0m
+  [4;36;1mNotebook Create (0.7ms)[0m   [0;1mINSERT INTO "notebooks" ("name", "updated_at", "creator_id", "content", "created_at") VALUES('truc', '2009-04-06 12:23:41', 1, NULL, '2009-04-06 12:23:41')[0m
+  [4;35;1mUser Load (0.3ms)[0m   [0mSELECT * FROM "users" WHERE ("users"."id" = 1) [0m
+  [4;36;1mNotebook Create (0.5ms)[0m   [0;1mINSERT INTO "notebooks" ("name", "updated_at", "creator_id", "content", "created_at") VALUES('truc', '2009-04-06 12:24:00', 1, NULL, '2009-04-06 12:24:00')[0m
+  [4;35;1mAnnoter Create (0.2ms)[0m   [0mINSERT INTO "annoters" ("updated_at", "notebook_id", "user_id", "string", "created_at") VALUES('2009-04-06 12:24:00', 2, 1, NULL, '2009-04-06 12:24:00')[0m
+  [4;36;1mNotebook Load (0.4ms)[0m   [0;1mSELECT * FROM "notebooks" WHERE ("notebooks"."id" = 2) [0m
+  [4;35;1mUser Load (0.3ms)[0m   [0mSELECT "users".* FROM "users" INNER JOIN "annoters" ON "users".id = "annoters".user_id WHERE (("annoters".notebook_id = 2)) [0m
+
+
+Processing AccountController#index (for 127.0.0.1 at 2009-04-06 14:25:07) [GET]
+  [4;36;1mUser Load (0.3ms)[0m   [0;1mSELECT * FROM "users" WHERE ("users"."id" = 1) [0m
+  [4;35;1mCACHE (0.0ms)[0m   [0mSELECT * FROM "users" WHERE ("users"."id" = 1) [0m
+
+ActionView::MissingTemplate (Missing template account/index.erb in view path app/views):
+  
+
+Rendering rescues/layout (internal_server_error)
+
+
+Processing AccountController#index (for 127.0.0.1 at 2009-04-06 14:25:40) [GET]
+  [4;36;1mUser Load (0.3ms)[0m   [0;1mSELECT * FROM "users" WHERE ("users"."id" = 1) [0m
+  [4;35;1mCACHE (0.0ms)[0m   [0mSELECT * FROM "users" WHERE ("users"."id" = 1) [0m
+
+ActionView::MissingTemplate (Missing template account/index.erb in view path app/views):
+  
+
+Rendering rescues/layout (internal_server_error)
+
+
+Processing AccountController#index (for 127.0.0.1 at 2009-04-06 14:25:43) [GET]
+  [4;36;1mUser Load (0.3ms)[0m   [0;1mSELECT * FROM "users" WHERE ("users"."id" = 1) [0m
+  [4;35;1mCACHE (0.0ms)[0m   [0mSELECT * FROM "users" WHERE ("users"."id" = 1) [0m
+
+ActionView::MissingTemplate (Missing template account/index.erb in view path app/views):
+  
+
+Rendering rescues/layout (internal_server_error)
+
+
+Processing AccountController#index (for 127.0.0.1 at 2009-04-06 14:26:59) [GET]
+  [4;36;1mUser Load (0.3ms)[0m   [0;1mSELECT * FROM "users" WHERE ("users"."id" = 1) [0m
+  [4;35;1mCACHE (0.0ms)[0m   [0mSELECT * FROM "users" WHERE ("users"."id" = 1) [0m
+
+ActionView::MissingTemplate (Missing template account/index.erb in view path app/views):
+  
+
+Rendering rescues/layout (internal_server_error)
+
+
+Processing AccountController#index (for 127.0.0.1 at 2009-04-06 14:27:01) [GET]
+  [4;36;1mUser Load (0.3ms)[0m   [0;1mSELECT * FROM "users" WHERE ("users"."id" = 1) [0m
+  [4;35;1mCACHE (0.0ms)[0m   [0mSELECT * FROM "users" WHERE ("users"."id" = 1) [0m
+
+ActionView::MissingTemplate (Missing template account/index.erb in view path app/views):
+  
+
+Rendering rescues/layout (internal_server_error)
+
+
+Processing AccountController#index (for 127.0.0.1 at 2009-04-06 14:27:02) [GET]
+  [4;36;1mUser Load (0.3ms)[0m   [0;1mSELECT * FROM "users" WHERE ("users"."id" = 1) [0m
+  [4;35;1mCACHE (0.0ms)[0m   [0mSELECT * FROM "users" WHERE ("users"."id" = 1) [0m
+
+ActionView::MissingTemplate (Missing template account/index.erb in view path app/views):
+  
+
+Rendering rescues/layout (internal_server_error)
+
+
+Processing AccountController#index (for 127.0.0.1 at 2009-04-06 14:27:33) [GET]
+  [4;36;1mUser Load (0.3ms)[0m   [0;1mSELECT * FROM "users" WHERE ("users"."id" = 1) [0m
+  [4;35;1mCACHE (0.0ms)[0m   [0mSELECT * FROM "users" WHERE ("users"."id" = 1) [0m
+
+ActionView::MissingTemplate (Missing template account/index.erb in view path app/views):
+  
+
+Rendering rescues/layout (internal_server_error)
+
+
+Processing AccountController#index (for 127.0.0.1 at 2009-04-06 14:27:43) [GET]
+  [4;36;1mUser Load (0.4ms)[0m   [0;1mSELECT * FROM "users" WHERE ("users"."id" = 1) [0m
+  [4;35;1mCACHE (0.0ms)[0m   [0mSELECT * FROM "users" WHERE ("users"."id" = 1) [0m
+Rendering account/index
+Completed in 72ms (View: 6, DB: 0) | 200 OK [http://localhost/account]
+
+
+Processing AccountController#index (for 127.0.0.1 at 2009-04-06 14:27:54) [GET]
+  [4;36;1mUser Load (0.3ms)[0m   [0;1mSELECT * FROM "users" WHERE ("users"."id" = 1) [0m
+  [4;35;1mCACHE (0.0ms)[0m   [0mSELECT * FROM "users" WHERE ("users"."id" = 1) [0m
+Rendering account/index
+Completed in 22ms (View: 6, DB: 0) | 200 OK [http://localhost/account]
+
+
+Processing AccountController#index (for 127.0.0.1 at 2009-04-06 14:27:55) [GET]
+  [4;36;1mUser Load (0.3ms)[0m   [0;1mSELECT * FROM "users" WHERE ("users"."id" = 1) [0m
+  [4;35;1mCACHE (0.0ms)[0m   [0mSELECT * FROM "users" WHERE ("users"."id" = 1) [0m
+Rendering account/index
+Completed in 16ms (View: 1, DB: 0) | 200 OK [http://localhost/account]
+
+
+Processing AccountController#index (for 127.0.0.1 at 2009-04-06 14:28:05) [GET]
+  [4;36;1mUser Load (0.4ms)[0m   [0;1mSELECT * FROM "users" WHERE ("users"."id" = 1) [0m
+  [4;35;1mCACHE (0.0ms)[0m   [0mSELECT * FROM "users" WHERE ("users"."id" = 1) [0m
+Rendering account/index
+Completed in 52ms (View: 6, DB: 0) | 200 OK [http://localhost/account]
+
+
+Processing AccountController#index (for 127.0.0.1 at 2009-04-06 14:30:56) [GET]
+  [4;36;1mUser Load (0.3ms)[0m   [0;1mSELECT * FROM "users" WHERE ("users"."id" = 1) [0m
+  [4;35;1mCACHE (0.0ms)[0m   [0mSELECT * FROM "users" WHERE ("users"."id" = 1) [0m
+Rendering account/index
+ERROR: compiling _run_haml_app47views47account47index46haml RAISED compile error
+/Users/oliv/Workspace/simple-notebook/app/views/account/index.haml:4: syntax error, unexpected kENSURE, expecting kEND
+/Users/oliv/Workspace/simple-notebook/app/views/account/index.haml:6: syntax error, unexpected $end, expecting kEND
+Function body:           def _run_haml_app47views47account47index46haml(local_assigns)
+            old_output_buffer = output_buffer;;extend Haml::Helpers;_hamlout = @haml_buffer = Haml::Buffer.new(@haml_buffer, {:autoclose=>["meta", "img", "link", "br", "hr", "input", "area", "param", "col", "base"], :ugly=>false, :format=>:xhtml, :preserve=>["textarea", "pre"], :attr_wrapper=>"'"});_erbout = _hamlout.buffer;__in_erb_template = true;; for notebook in @notebooks;
+
+@haml_buffer = @haml_buffer.upper;_erbout;
+          ensure
+            self.output_buffer = old_output_buffer
+          end
+Backtrace: /Users/oliv/Workspace/simple-notebook/app/views/account/index.haml:6:in `compile!'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.2/lib/action_view/renderable.rb:61:in `compile'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.2/lib/action_view/renderable.rb:28:in `render'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.2/lib/action_view/template.rb:194:in `render_template'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.2/lib/action_view/base.rb:260:in `render_without_haml'
+/Library/Ruby/Gems/1.8/gems/haml-2.0.9/lib/haml/helpers/action_view_mods.rb:14:in `render'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.2/lib/action_controller/base.rb:1241:in `render_for_file'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.2/lib/action_controller/base.rb:937:in `render_without_benchmark'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.2/lib/action_controller/benchmarking.rb:51:in `render'
+/Library/Ruby/Gems/1.8/gems/activesupport-2.3.2/lib/active_support/core_ext/benchmark.rb:17:in `ms'
+/Library/Ruby/Gems/1.8/gems/activesupport-2.3.2/lib/active_support/core_ext/benchmark.rb:10:in `realtime'
+/Library/Ruby/Gems/1.8/gems/activesupport-2.3.2/lib/active_support/core_ext/benchmark.rb:17:in `ms'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.2/lib/action_controller/benchmarking.rb:51:in `render'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.2/lib/action_controller/base.rb:1317:in `default_render'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.2/lib/action_controller/base.rb:1323:in `perform_action_without_filters'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.2/lib/action_controller/filters.rb:617:in `call_filters'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.2/lib/action_controller/filters.rb:610:in `perform_action_without_benchmark'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.2/lib/action_controller/benchmarking.rb:68:in `perform_action_without_rescue'
+/Library/Ruby/Gems/1.8/gems/activesupport-2.3.2/lib/active_support/core_ext/benchmark.rb:17:in `ms'
+/Library/Ruby/Gems/1.8/gems/activesupport-2.3.2/lib/active_support/core_ext/benchmark.rb:10:in `realtime'
+/Library/Ruby/Gems/1.8/gems/activesupport-2.3.2/lib/active_support/core_ext/benchmark.rb:17:in `ms'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.2/lib/action_controller/benchmarking.rb:68:in `perform_action_without_rescue'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.2/lib/action_controller/rescue.rb:160:in `perform_action_without_flash'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.2/lib/action_controller/flash.rb:141:in `perform_action'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.2/lib/action_controller/base.rb:523:in `send'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.2/lib/action_controller/base.rb:523:in `process_without_filters'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.2/lib/action_controller/filters.rb:606:in `sass_old_process'
+/Library/Ruby/Gems/1.8/gems/haml-2.0.9/lib/sass/plugin/rails.rb:19:in `process'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.2/lib/action_controller/base.rb:391:in `process'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.2/lib/action_controller/base.rb:386:in `call'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.2/lib/action_controller/routing/route_set.rb:433:in `call'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.2/lib/action_controller/dispatcher.rb:88:in `dispatch'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.2/lib/action_controller/dispatcher.rb:111:in `_call'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.2/lib/action_controller/dispatcher.rb:82:in `initialize'
+/Library/Ruby/Gems/1.8/gems/activerecord-2.3.2/lib/active_record/query_cache.rb:29:in `call'
+/Library/Ruby/Gems/1.8/gems/activerecord-2.3.2/lib/active_record/query_cache.rb:29:in `call'
+/Library/Ruby/Gems/1.8/gems/activerecord-2.3.2/lib/active_record/connection_adapters/abstract/query_cache.rb:34:in `cache'
+/Library/Ruby/Gems/1.8/gems/activerecord-2.3.2/lib/active_record/query_cache.rb:9:in `cache'
+/Library/Ruby/Gems/1.8/gems/activerecord-2.3.2/lib/active_record/query_cache.rb:28:in `call'
+/Library/Ruby/Gems/1.8/gems/activerecord-2.3.2/lib/active_record/connection_adapters/abstract/connection_pool.rb:361:in `call'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.2/lib/action_controller/vendor/rack-1.0/rack/head.rb:9:in `call'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.2/lib/action_controller/vendor/rack-1.0/rack/methodoverride.rb:24:in `call'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.2/lib/action_controller/params_parser.rb:15:in `call'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.2/lib/action_controller/rewindable_input.rb:25:in `call'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.2/lib/action_controller/session/cookie_store.rb:93:in `call'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.2/lib/action_controller/reloader.rb:9:in `call'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.2/lib/action_controller/failsafe.rb:11:in `call'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.2/lib/action_controller/vendor/rack-1.0/rack/lock.rb:11:in `call'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.2/lib/action_controller/vendor/rack-1.0/rack/lock.rb:11:in `synchronize'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.2/lib/action_controller/vendor/rack-1.0/rack/lock.rb:11:in `call'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.2/lib/action_controller/dispatcher.rb:106:in `call'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.2/lib/action_controller/cgi_process.rb:44:in `dispatch_cgi'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.2/lib/action_controller/dispatcher.rb:102:in `dispatch_cgi'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.2/lib/action_controller/dispatcher.rb:28:in `dispatch'
+/Library/Ruby/Gems/1.8/gems/mongrel-1.1.5/bin/../lib/mongrel/rails.rb:76:in `process'
+/Library/Ruby/Gems/1.8/gems/mongrel-1.1.5/bin/../lib/mongrel/rails.rb:74:in `synchronize'
+/Library/Ruby/Gems/1.8/gems/mongrel-1.1.5/bin/../lib/mongrel/rails.rb:74:in `process'
+/Library/Ruby/Gems/1.8/gems/mongrel-1.1.5/bin/../lib/mongrel.rb:159:in `process_client'
+/Library/Ruby/Gems/1.8/gems/mongrel-1.1.5/bin/../lib/mongrel.rb:158:in `each'
+/Library/Ruby/Gems/1.8/gems/mongrel-1.1.5/bin/../lib/mongrel.rb:158:in `process_client'
+/Library/Ruby/Gems/1.8/gems/mongrel-1.1.5/bin/../lib/mongrel.rb:285:in `run'
+/Library/Ruby/Gems/1.8/gems/mongrel-1.1.5/bin/../lib/mongrel.rb:285:in `initialize'
+/Library/Ruby/Gems/1.8/gems/mongrel-1.1.5/bin/../lib/mongrel.rb:285:in `new'
+/Library/Ruby/Gems/1.8/gems/mongrel-1.1.5/bin/../lib/mongrel.rb:285:in `run'
+/Library/Ruby/Gems/1.8/gems/mongrel-1.1.5/bin/../lib/mongrel.rb:268:in `initialize'
+/Library/Ruby/Gems/1.8/gems/mongrel-1.1.5/bin/../lib/mongrel.rb:268:in `new'
+/Library/Ruby/Gems/1.8/gems/mongrel-1.1.5/bin/../lib/mongrel.rb:268:in `run'
+/Library/Ruby/Gems/1.8/gems/mongrel-1.1.5/bin/../lib/mongrel/configurator.rb:282:in `run'
+/Library/Ruby/Gems/1.8/gems/mongrel-1.1.5/bin/../lib/mongrel/configurator.rb:281:in `each'
+/Library/Ruby/Gems/1.8/gems/mongrel-1.1.5/bin/../lib/mongrel/configurator.rb:281:in `run'
+/Library/Ruby/Gems/1.8/gems/mongrel-1.1.5/bin/mongrel_rails:128:in `run'
+/Library/Ruby/Gems/1.8/gems/mongrel-1.1.5/bin/../lib/mongrel/command.rb:212:in `run'
+/Library/Ruby/Gems/1.8/gems/mongrel-1.1.5/bin/mongrel_rails:281
+/usr/bin/mongrel_rails:19:in `load'
+/usr/bin/mongrel_rails:19
+
+ActionView::TemplateError (compile error
+/Users/oliv/Workspace/simple-notebook/app/views/account/index.haml:4: syntax error, unexpected kENSURE, expecting kEND
+/Users/oliv/Workspace/simple-notebook/app/views/account/index.haml:6: syntax error, unexpected $end, expecting kEND) on line #4 of app/views/account/index.haml:
+1: - for notebook in @notebooks
+
+    app/views/account/index.haml:6:in `compile!'
+    haml (2.0.9) lib/haml/helpers/action_view_mods.rb:14:in `render'
+    haml (2.0.9) lib/sass/plugin/rails.rb:19:in `process'
+
+Rendered rescues/_trace (155.7ms)
+Rendered rescues/_request_and_response (2.6ms)
+Rendering rescues/layout (internal_server_error)
+
+
+Processing AccountController#index (for 127.0.0.1 at 2009-04-06 14:32:56) [GET]
+  [4;36;1mUser Load (0.3ms)[0m   [0;1mSELECT * FROM "users" WHERE ("users"."id" = 1) [0m
+  [4;35;1mCACHE (0.0ms)[0m   [0mSELECT * FROM "users" WHERE ("users"."id" = 1) [0m
+Rendering account/index
+  [4;36;1mNotebook Load (0.4ms)[0m   [0;1mSELECT "notebooks".* FROM "notebooks" INNER JOIN "annoters" ON "notebooks".id = "annoters".notebook_id WHERE (("annoters".user_id = 1)) [0m
+Completed in 39ms (View: 17, DB: 1) | 200 OK [http://localhost/account]
+
+
+Processing AccountController#index (for 127.0.0.1 at 2009-04-06 14:33:10) [GET]
+  [4;35;1mUser Load (0.3ms)[0m   [0mSELECT * FROM "users" WHERE ("users"."id" = 1) [0m
+  [4;36;1mCACHE (0.0ms)[0m   [0;1mSELECT * FROM "users" WHERE ("users"."id" = 1) [0m
+Rendering account/index
+  [4;35;1mNotebook Load (0.5ms)[0m   [0mSELECT "notebooks".* FROM "notebooks" INNER JOIN "annoters" ON "notebooks".id = "annoters".notebook_id WHERE (("annoters".user_id = 1)) [0m
+Completed in 29ms (View: 14, DB: 1) | 200 OK [http://localhost/account]
