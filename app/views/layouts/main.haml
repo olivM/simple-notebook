@@ -1,2 +1,28 @@
-#sidebar
-  = render_component :controller => 'account', :action => 'notebooks'
+!!!
+%html
+  %head
+    %link{ :rel => "shortcut icon", :href => "/favicon.ico", :type => "image/x-icon"}/
+    %title= controller.controller_name.capitalize
+    = javascript_include_tag 'http://ajax.googleapis.com/ajax/libs/jquery/1.3.2/jquery.min.js'
+    = javascript_include_tag 'http://ajax.googleapis.com/ajax/libs/jqueryui/1.7.1/jquery-ui.min.js'
+    = javascript_include_tag 'jquery.editinplace.packed'
+    = javascript_include_tag 'main'
+    = stylesheet_link_tag 'main'
+    
+  %body
+  
+    #container
+
+      #header
+        #account
+          %a{:href => "/account"}=@user.name
+
+      #sidebar
+        %a{:href => "/notebook/new"} new
+        %ul#notebooks
+          - for notebook in @notebooks
+            %li{:class => ( ! @notebook.nil?  and @notebook.id == notebook.id ? 'selected' : '' )}
+              %a{:href => "/notebook/show/#{notebook.id}"}=notebook.name 
+
+      #main
+        = yield

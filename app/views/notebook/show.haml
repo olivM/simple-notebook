@@ -1,0 +1,6 @@
+%h2=@notebook.name
+
+%a{:href => "/notebook/edit/#{@notebook.id}"} edit
+
+#notebook_content
+  =@notebook.content

@@ -8,6 +8,14 @@ class ApplicationController < ActionController::Base
   # Scrub sensitive parameters from your log
   # filter_parameter_logging :password
 
+  def notebooks_info
+    @notebooks = @user.notebooks
+  end
+
+  def user_info
+    @user = User.find(session[:user_id])
+  end
+
   def login_required
       if session[:user_id]
         @user ||= User.find(session[:user_id])
