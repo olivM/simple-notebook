@@ -1,6 +1,13 @@
-%h2=@notebook.name
+#notebook_header
+  %h2=@notebook.name
 
-%a{:href => "/notebook/edit/#{@notebook.id}"} edit
+  %a{:href => "/notebook/edit/#{@notebook.id}"} edit
 
 #notebook_content
-  =@notebook.content
+  
+  %button#new_note new note
+  
+  #messages
+  
+  .content
+    =@notebook.display

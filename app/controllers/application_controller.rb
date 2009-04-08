@@ -18,8 +18,12 @@ class ApplicationController < ActionController::Base
 
   def login_required
       if session[:user_id]
-        @user ||= User.find(session[:user_id])
-        @access_token ||= OAuth::AccessToken.new(get_consumer, @user.oauth_token, @user.oauth_secret)
+        begin
+          @user ||= User.find(session[:user_id])
+          @access_token ||= OAuth::AccessToken.new(get_consumer, @user.oauth_token, @user.oauth_secret)
+        rescue
+          redirect_to :controller => 'session', :action => 'new'
+        end
       else
         redirect_to :controller => 'session', :action => 'new'
       end

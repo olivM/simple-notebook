@@ -15,23 +15,55 @@ ul
 
 #container
   :padding  10px
+  
+  #header
+    #logo
+      h1
+        :margin 0
+    #account
+      :text-align right
 
-  #account
-    :text-align right
-    
   #sidebar
     :float left
     :width  200px
     :height 100%
     :padding  1px 5px 1px 1px
-    :margin-right 10px
-    
+
     #notebooks
       li
         :padding 2px 3px 4px 5px
       li.selected
         :background-color #ccf
-        
+
   #main
-    :float left
+    :margin-left  210px
+
+    #notebook_header
+      :height   35px
+
+      h2
+        :margin  0
+        :float    left
     
+    #notebook_content
+      :clear  both  
+      .content
+        .note
+          :_background-color #eef
+          :padding-left 20px
+
+          .edit_note_btn
+            :float  left
+            :display  none
+            :margin-left  -20px
+        form
+          input
+            :background transparent
+            :border     1px solid #ccc
+          textarea
+            :height 100px
+            :background transparent
+            :border     1px solid #ccc
+        
+        
+        

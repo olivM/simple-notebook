@@ -15,17 +15,39 @@ ul {
 
 #container {
   padding: 10px; }
-  #container #account {
+  #container #header #logo h1 {
+    margin: 0; }
+  #container #header #account {
     text-align: right; }
   #container #sidebar {
     float: left;
     width: 200px;
     height: 100%;
-    padding: 1px 5px 1px 1px;
-    margin-right: 10px; }
+    padding: 1px 5px 1px 1px; }
     #container #sidebar #notebooks li {
       padding: 2px 3px 4px 5px; }
     #container #sidebar #notebooks li.selected {
       background-color: #ccf; }
   #container #main {
-    float: left; }
+    margin-left: 210px; }
+    #container #main #notebook_header {
+      height: 35px; }
+      #container #main #notebook_header h2 {
+        margin: 0;
+        float: left; }
+    #container #main #notebook_content {
+      clear: both; }
+      #container #main #notebook_content .content .note {
+        _background-color: #eef;
+        padding-left: 20px; }
+        #container #main #notebook_content .content .note .edit_note_btn {
+          float: left;
+          display: none;
+          margin-left: -20px; }
+      #container #main #notebook_content .content form input {
+        background: transparent;
+        border: 1px solid #ccc; }
+      #container #main #notebook_content .content form textarea {
+        height: 100px;
+        background: transparent;
+        border: 1px solid #ccc; }

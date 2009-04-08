@@ -1,0 +1,13 @@
+-form_for @note, :url => { :action => "create" }, :html => { :id => "note_form" }  do |f|
+  
+  = f.error_messages
+
+  %p
+    =f.text_field :name
+
+  %p
+    =f.text_area :content, :rows => 4
+
+  %p
+    = submit_tag 'save'
+  
